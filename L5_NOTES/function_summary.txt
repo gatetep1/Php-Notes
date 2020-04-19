@@ -1,0 +1,29 @@
+Module: Web application Development
+LU2: Implement php logic
+LU2.3: The use of effectice function
+
+
+Topic: Implement php function
+-----------------------------
+
+The function is a block of code that performs the
+specific task when it is called.
+
+
+We have 2 kinds of php functions
+
+- Built-in function:A function is a self-contained block of code that performs a specific task.
+PHP has a huge collection of internal or built-in functions that you can call directly within 
+your PHP scripts to perform a specific task, 
+
+ex: printf(), getType(), strlen(), var_dump(), print_r(),...
+
+- User-defined function:
+
+
+
+
+
+
+
+

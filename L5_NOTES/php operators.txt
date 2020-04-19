@@ -1,0 +1,29 @@
+MODULE: Web application Development
+L.U1: Introduction to PHP Fundamental
+L.O1.2: Effective description of Syntax, Data types, Variables and Operators, Array.
+
+What we have seen:
+===================
+
+PHP Operators: -Arthmetic operators
+		Ex: +, -, /, %, *, **,....
+	       -Comparison Operators
+		Ex: !=, ==, >=, >, <=, <,===, !==, ...
+	       -Logical
+		Ex: AND, &&, OR, ||, XOR, !,...
+	       -Assignment Operator
+		Ex: =, +=, -=, /=, ....
+	       -String Operator
+		Ex: .=, .
+	       -Increment/Decrement Operator
+		Ex: $x++, ++$x, --$x, $x--
+
+Exercise
+========
+
+1. On each types of operator, by using your example use each one.
+	       -Arrays Operator
+
+		Ex:
+
+			

@@ -1,0 +1,8 @@
+Exercise
+--------
+1. write php script which loops through 15 numbers 
+   starting from 1 stepping 1.
+2. Write php program which generates random number in range
+   between 1 and 5 by using for loop.
+3. By using for loop, Write php program which let you select the day, month and year
+   in drop down list separately.
